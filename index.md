@@ -5,13 +5,16 @@
 ### Projects
 
 
-[AraNet]() - Dec 2019
+[AraNet]() - In Progress
+
+A Deep Learning Toolkit for Social Media
+
 
 ---
-[EmoNet](https://github.com/UBC-NLP/EmoNet.git) - Dec 2019
+[EmoNet](/) - Dec 2019
 
 
-EmoNet is a neural network tool for emotion recognition, described in this paper. The current packaged version predicts 9 emotion categories (p2 in the paper).
+EmoNet is a neural network tool for emotion recognition, described in this [paper](https://www.aclweb.org/anthology/P17-1067/). The current packaged version predicts 9 emotion categories (p2 in the paper).
 
 ---
 [DialectID](http://example.com/) - Nov 2019
