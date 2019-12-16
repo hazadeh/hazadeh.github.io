@@ -1,11 +1,11 @@
-## Portfolio (UNDER CONSTRUCTION)
+## Portfolio
 
 ---
 
 ### Projects
 
 
-[AraNet]() - In Progress
+[AraNet](/) - In Progress
 
 A Deep Learning Toolkit for Social Media
 
@@ -17,12 +17,16 @@ A Deep Learning Toolkit for Social Media
 EmoNet is a neural network tool for emotion recognition, described in this [paper](https://www.aclweb.org/anthology/P17-1067/). The current packaged version predicts 9 emotion categories (p2 in the paper).
 
 ---
-[DialectID](http://example.com/) - Nov 2019
+[AraID](/) - Nov 2019
+
+AraID is a Dialect Identification tool for Arabic.
 
 ---
-[Socrates]() - Sep 2019
+[Socrates](https://github.com/hazadeh/Socrates) - Sep 2019
 
---
+This is a conceptual search system that teaches student how to do search in a conversational basis.
+
+---
 [WSD] () - Feb 2016
 
 ---
