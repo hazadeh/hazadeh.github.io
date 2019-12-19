@@ -1,50 +1,53 @@
-## Portfolio
+## Projects
+
+
+[**AraNet**](/)
+
+A Deep Learning Toolkit for Social Media.
+
+The package will be released publicly very soon.
 
 ---
 
-### Projects
-
-
-[AraNet](/) - In Progress
-
-A Deep Learning Toolkit for Social Media
-
-
----
-[EmoNet](/) - Dec 2019
+[**EmoNet**](https://github.com/UBC-NLP/EmoNet)
 
 
 EmoNet is a neural network tool for emotion recognition, described in this [paper](https://www.aclweb.org/anthology/P17-1067/). The current packaged version predicts 9 emotion categories (p2 in the paper).
 
----
-[AraID](/) - Nov 2019
-
-AraID is a Dialect Identification tool for Arabic.
 
 ---
-[Socrates](https://github.com/hazadeh/Socrates) - Sep 2019
 
-This is a conceptual search system that teaches student how to do search in a conversational basis.
+**Preposition Sense Disambiguation**
+
+A PSD system incorporated into [Faraazin](https://ut.ac.ir/en/news/5908/ut-faraazin-translates-english-and-persian-texts), an English-Persian machine translator. 
+The system consists of two phases: phase one detects the english sense, and phase two maps it to the proper Persian translation.
+The mapping is available [here](https://ece.ut.ac.ir/en/web/nlp/resources).
+
 
 ---
-[WSD] () - Feb 2016
+ 
+**Auto-Completion system for Mail Server**
+
+Anonymizing and cleaning mailing dataset and building and smoothing n-gram language model based on that.
+The model is used in auto-completion system for the university mailing system. 
+
 
 ---
-[Mail Server] - 2016
+
+[**Socrates T.A.**](https://github.com/hazadeh/Socrates)
+
+Design and implement a conceptual search system that teaches student how to do search on a conversational basis.
 
 ---
-Author Detection - 2015
+**Authorship Identification**
+
+Building a classifier for authorship identification task on PAN shared task dataset. 
 
 ---
-R2RML - 2012
+**R2RML**
 
-
-
-### Papers
-
-- [Paper 1 Title](http://example.com/)
-- [Paper 2 Title](http://example.com/)
-
+Design and implement of an [R2RML](https://www.w3.org/TR/r2rml/) system for relational database with a specific connector for MSSQL database.
+ 
 
 ---
 
