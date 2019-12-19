@@ -54,5 +54,5 @@ Design and implement of an [R2RML](https://www.w3.org/TR/r2rml/) system for rela
 
 
 ---
-<p style="font-size:7px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:3px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
