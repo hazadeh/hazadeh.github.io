@@ -44,16 +44,15 @@ Design and implement a conceptual search system that teaches student how to do s
 Building a classifier for authorship identification task on PAN shared task dataset. 
 
 ---
-**R2RML**
+[**R2RML**](https://github.com/hazadeh/r2rml_processor)
 
 Design and implement of an [R2RML](https://www.w3.org/TR/r2rml/) system for relational database with a specific connector for MSSQL database.
  
 
----
 
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:7px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
