@@ -1,11 +1,9 @@
 ## Projects
 
 
-[**AraNet**](/)
+[**AraNet**](https://github.com/UBC-NLP/aranet)
 
-A Deep Learning Toolkit for Social Media.
-
-The package will be released publicly very soon.
+A Deep Learning Toolkit for Social Media explained in this [paper](https://www.aclweb.org/anthology/2020.osact-1.3/https://www.aclweb.org/anthology/2020.osact-1.3/).
 
 ---
 
