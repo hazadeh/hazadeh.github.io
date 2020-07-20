@@ -15,6 +15,16 @@ EmoNet is a neural network tool for emotion recognition, described in this [pape
 
 ---
 
+[** Udacity Deep Learning Nanodegree Program](https://github.com/hazadeh/Udacity-Deep-Learning-Nanodegree)
+The program is comprised of 5 courses and 5 projects:
+1. Neural Networks - Project: Predicting Bike-Sharing Patterns
+2. Convolutional Neural Networks- Project: Dog Breed Classifier
+3. Recurrent Neural Networks- Project: Generate TV Scripts
+4. Generative Adversarial Networks- Project: Generate Faces
+4. Deploying a Model - Project: Deploying a Sentiment Analysis Model
+
+---
+
 **Preposition Sense Disambiguation**
 
 A PSD system incorporated into [Faraazin](https://ut.ac.ir/en/news/5908/ut-faraazin-translates-english-and-persian-texts), an English-Persian machine translator. 
