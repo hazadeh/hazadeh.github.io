@@ -16,6 +16,7 @@ EmoNet is a neural network tool for emotion recognition, described in this [pape
 ---
 
 [**Udacity Deep Learning Nanodegree Program**](https://github.com/hazadeh/Udacity-Deep-Learning-Nanodegree)
+
 The program is comprised of 5 courses and 5 projects:
 1. Neural Networks - Project: Predicting Bike-Sharing Patterns
 2. Convolutional Neural Networks- Project: Dog Breed Classifier
