@@ -7,8 +7,11 @@ description: >
   <br>
   Senior Software Engineer
   <br><br>
-  <a href="https://www.linkedin.com/in/azadehhashemi/">View My LinkedIn Profile</a> 
+  <!-- <a href="https://www.linkedin.com/in/azadehhashemi/">View My LinkedIn Profile</a> -->
   
   <a href="https://www.linkedin.com/in/azadehhashemi/"><img src="/images/linkedin.png" alt="My LinkedIn Profile" style="width:42px;height:42px;"></a>
+  <a href="https://scholar.google.com/citations?user=ztdd_gcAAAAJ"><img src="/images/icons8-google-scholar-96.png" alt="My Google Scholar Profile" style="width:42px;height:42px;"></a>
+  <a href="https://github.com/hazadeh"><img src="/images/icons8-github-96.png" alt="My GitHub Profile" style="width:42px;height:42px;"></a>
+  <a href="https://twitter.com/_azadehhashemi"><img src="/images/twitter.png" alt="My Twitter Profile" style="width:42px;height:42px;"></a>
   
 theme: jekyll-theme-minimal
